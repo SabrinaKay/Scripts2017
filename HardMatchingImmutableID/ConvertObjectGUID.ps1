@@ -1,3 +1,5 @@
+#Convert objectGUID to ImmutableID
+#Creator: Sabrina Kay
 $list = Import-Csv .\list.csv -delimiter “,”
 
 foreach ($i in $list){
