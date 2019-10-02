@@ -1,5 +1,5 @@
 #A list of users with user principal name and these list of users will have their old immutable id wipe off
-
+#Creator: Sabrina Kay
 Connect-MsolService
 $users = Import-Csv .\list.csv -delimiter “,”
 
