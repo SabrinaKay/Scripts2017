@@ -3,9 +3,9 @@ Why and When you should perform Hard Matching? Here is a <a href="https://sabrin
 
 These are all perform via PowerShell Only
 1. Disable the Directory Sync 
-2. Convert Active Directory User's objectGUID
-3. Export into a new CSV
-4. Clear Old Immutable ID
-5. Set the New Immutable ID
-6. Enable Directory Sync
-
+2. Export Active Directory User's ObjectGUID
+3. Convert Active Directory User's objectGUID
+4. Export into a new CSV
+5. Clear Old Immutable ID
+6. Set the New Immutable ID
+7. Enable Directory Sync
